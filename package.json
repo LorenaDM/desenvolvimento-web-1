@@ -1,5 +1,5 @@
 {
-  "name": "5Sem",
+  "name": "projeto-next",
   "private": true,
   "scripts": {
     "dev": "next dev",
