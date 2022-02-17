@@ -1,0 +1,5 @@
+npx create-next-app next5semestre
+npm run dev
+
+npm install -D typescript @types/react@types/node
+Renomear os arquivos .js para tsx
