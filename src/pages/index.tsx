@@ -1,8 +1,9 @@
-
-import styles from '../styles/home.module.scss'
+import Head from 'next/head'
+import Image from 'next/image'
 
 export default function Home() {
   return (
-    <h1 className={styles.title}>Olá <span>Mundo</span></h1>
+         
+    <h1 > Olá <span> Dev </span> </h1>
   )
 }
