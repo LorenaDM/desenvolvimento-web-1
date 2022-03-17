@@ -3,3 +3,12 @@ npm run dev
 
 npm install -D typescript @types/react@types/node
 Renomear os arquivos .js para tsx
+
+Client Side Redering
+
+Navegador -------Devolve HTML CSS JS = Interpretado pelo navegador-----------> BackEnd
+
+Server Side Rendering
+FrontEnd(Navehador[html css]) --------- Servidor no front end {Interpretado com NODE JS}---------> BackEnd
+
+delei de 4 segundos para carregar requisiçao
