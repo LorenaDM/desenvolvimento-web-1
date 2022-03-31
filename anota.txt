@@ -12,3 +12,18 @@ Server Side Rendering
 FrontEnd(Navehador[html css]) --------- Servidor no front end {Interpretado com NODE JS}---------> BackEnd
 
 delei de 4 segundos para carregar requisiçao
+
+
+Pág com Posts
+
+Server Side Rendering
+
+State Sate Generation
+
+Incremental State Registration
+
+
+post não existe
+Fall back -> falso -> força o erro 404
+
+uanod o usuário acessar o site pela primeira vez é gerado uma nova página depois domente é atualizada
