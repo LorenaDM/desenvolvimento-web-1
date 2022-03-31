@@ -1,11 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/api/hello": "pages/api/hello.js",
-  "/index client side render": "pages/index client side render.js",
-  "/": "pages/index.js",
-  "/posts/[id]": "pages/posts/[id].js",
-  "/posts": "pages/posts.js",
-  "/posts/posts": "pages/posts/posts.js",
-  "/_error": "pages/_error.js"
+  "/_error": "pages/_error.js",
+  "/": "pages/index.js"
 }
