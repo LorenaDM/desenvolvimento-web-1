@@ -1,6 +1,13 @@
 {
+  "/404": "pages/404.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js",
-  "/": "pages/index.js"
+  "/api/courses": "pages/api/courses.js",
+  "/api/hello": "pages/api/hello.js",
+  "/index client side render": "pages/index client side render.js",
+  "/": "pages/index.js",
+  "/posts/[id]": "pages/posts/[id].js",
+  "/posts": "pages/posts.js",
+  "/posts/posts": "pages/posts/posts.js",
+  "/_error": "pages/_error.js"
 }
